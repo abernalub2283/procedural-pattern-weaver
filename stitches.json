@@ -1,0 +1,167 @@
+[
+    {
+        "name": "Rope Cable",
+        "type": "cable",
+        "stitches": 4,
+        "offset": 0,
+        "rows": 6,
+        "difficulty": 1,
+        "yarnMultiplier": 1.3,
+        "instructions": [
+            "Row 1 (RS): K4.",
+            "Row 2 (WS): P4.",
+            "Row 3: K4.",
+            "Row 4: P4.",
+            "Row 5: C4F — slip 2 sts to cable needle, hold in front, K2, then K2 from cable needle.",
+            "Row 6: P4."
+        ]
+    },
+    {
+        "name": "Honeycomb Cable",
+        "type": "cable",
+        "stitches": 8,
+        "offset": 0,
+        "rows": 8,
+        "difficulty": 2,
+        "yarnMultiplier": 1.5,
+        "instructions": [
+            "Row 1 (RS): C4B, C4F. (C4B: slip 2 sts to cable needle, hold in back, K2, K2 from cable needle; C4F: hold in front.)",
+            "Row 2 (WS): P8.",
+            "Row 3: K8.",
+            "Row 4: P8.",
+            "Row 5: C4F, C4B.",
+            "Row 6: P8.",
+            "Row 7: K8.",
+            "Row 8: P8."
+        ]
+    },
+    {
+        "name": "Braid Cable",
+        "type": "cable",
+        "stitches": 6,
+        "offset": 0,
+        "rows": 8,
+        "difficulty": 2,
+        "yarnMultiplier": 1.4,
+        "instructions": [
+            "Row 1 (RS): K6.",
+            "Row 2 (WS): P6.",
+            "Row 3: C6B — slip 3 sts to cable needle, hold in back, K3, K3 from cable needle.",
+            "Row 4: P6.",
+            "Row 5: K6.",
+            "Row 6: P6.",
+            "Row 7: C6F — slip 3 sts to cable needle, hold in front, K3, K3 from cable needle.",
+            "Row 8: P6."
+        ]
+    },
+    {
+        "name": "Feather and Fan",
+        "type": "lace",
+        "stitches": 18,
+        "offset": 0,
+        "rows": 4,
+        "difficulty": 2,
+        "yarnMultiplier": 0.9,
+        "instructions": [
+            "Row 1 (RS): K2tog 3 times, (YO, K1) 6 times, K2tog 3 times. (18 sts)",
+            "Row 2 (WS): Knit.",
+            "Row 3: Knit.",
+            "Row 4: Knit."
+        ]
+    },
+    {
+        "name": "Eyelet Columns",
+        "type": "lace",
+        "stitches": 6,
+        "offset": 0,
+        "rows": 4,
+        "difficulty": 1,
+        "yarnMultiplier": 0.95,
+        "instructions": [
+            "Row 1 (RS): K2, YO, K2tog, K2.",
+            "Row 2 (WS): P6.",
+            "Row 3: K6.",
+            "Row 4: P6."
+        ]
+    },
+    {
+        "name": "Seed Stitch",
+        "type": "texture",
+        "stitches": 2,
+        "offset": 0,
+        "rows": 2,
+        "difficulty": 1,
+        "yarnMultiplier": 1.1,
+        "instructions": [
+            "Row 1: *K1, P1; repeat from *.",
+            "Row 2: *P1, K1; repeat from *. (Knit the purls and purl the knits.)"
+        ]
+    },
+    {
+        "name": "Moss Stitch",
+        "type": "texture",
+        "stitches": 2,
+        "offset": 0,
+        "rows": 4,
+        "difficulty": 1,
+        "yarnMultiplier": 1.15,
+        "instructions": [
+            "Row 1: *K1, P1; repeat from *.",
+            "Row 2: *K1, P1; repeat from *.",
+            "Row 3: *P1, K1; repeat from *.",
+            "Row 4: *P1, K1; repeat from *."
+        ]
+    },
+    {
+        "name": "Basketweave",
+        "type": "texture",
+        "stitches": 8,
+        "offset": 0,
+        "rows": 8,
+        "difficulty": 1,
+        "yarnMultiplier": 1.1,
+        "instructions": [
+            "Rows 1-4: *K4, P4; repeat from *.",
+            "Rows 5-8: *P4, K4; repeat from *."
+        ]
+    },
+    {
+        "name": "Garter Stitch",
+        "type": "texture",
+        "stitches": 1,
+        "offset": 0,
+        "rows": 2,
+        "difficulty": 1,
+        "yarnMultiplier": 1.1,
+        "instructions": [
+            "Row 1: Knit.",
+            "Row 2: Knit."
+        ]
+    },
+    {
+        "name": "Stockinette Stitch",
+        "type": "texture",
+        "stitches": 1,
+        "offset": 0,
+        "rows": 2,
+        "difficulty": 1,
+        "yarnMultiplier": 1.0,
+        "instructions": [
+            "Row 1: Knit.",
+            "Row 2: Purl."
+        ]
+    },
+    {
+        "name": "Sand Stitch",
+        "type": "texture",
+        "stitches": 2,
+        "offset": 1,
+        "rows": 2,
+        "difficulty": 1,
+        "yarnMultiplier": 1.1,
+        "instructions": [
+            "Row 1: Purl.",
+            "Row 2: K1 *P1, K1; repeat from *."
+        ]
+    }
+]
